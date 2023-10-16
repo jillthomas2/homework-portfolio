@@ -1,0 +1,43 @@
+.inline-block {
+display:inline-block;
+vertical-align:top;
+}
+
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+
+nav {
+    width: 73%;
+    padding: 1%;
+}
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+li{
+    display: inline-block;
+}
+
+/* ask how to alighn the menu bar*/
+
+
+.LeftBox {
+    height: 600px ;
+    padding: 25px ;
+}
+
+/* ask about how to move this box to the top right*/
+.RightBox{
+    height: 300px;
+    padding: 600px;
+}
+
+footer{
+    background-color:F1F49C8;
+    text-align: center;
+}
+
+
